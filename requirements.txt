@@ -1,0 +1,4 @@
+flask
+educhain
+langchain-community
+ollama
